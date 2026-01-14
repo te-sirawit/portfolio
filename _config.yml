@@ -1,3 +1,4 @@
 # add the following to _config.yml file
 title: YOUR NAME
+logo: /assets/profile.png
 theme: jekyll-theme-minimal
