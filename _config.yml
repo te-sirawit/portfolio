@@ -1,4 +1,4 @@
 # add the following to _config.yml file
 title: Sirawit Techachaikulsiri
-logo: /assets/profile.png
+logo: /assets/img/circled_profile.png
 theme: jekyll-theme-minimal
